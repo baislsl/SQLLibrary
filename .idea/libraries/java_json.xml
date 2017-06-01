@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="java-json">
+    <CLASSES>
+      <root url="jar:///usr/lib/jvm/jdk1.8.0_121/jre/lib/ext/java-json.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///usr/lib/jvm/jdk1.8.0_121/jre/lib/ext/java-json.jar!/" />
+    </SOURCES>
+  </library>
+</component>

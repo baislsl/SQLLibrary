@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ResourceBundleManager">
+    <file url="file://$PROJECT_DIR$/res/pictures/property/sqllib.properties" />
+    <file url="file://$PROJECT_DIR$/res/pictures/property/sqllib_zh_CN.properties" />
+  </component>
+</project>

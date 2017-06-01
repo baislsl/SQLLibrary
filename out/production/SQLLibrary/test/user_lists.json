@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "bai5",
+      "password": "123",
+      "date": "2000-01-01",
+      "mail": "baislsl@163.com"
+    },
+    {
+      "id": "bai6",
+      "password": "45678",
+      "date": "1000-01-01",
+      "mail": "gg@gmail.com"
+    }
+  ]
+}
