@@ -373,10 +373,6 @@ public class SQLConnection{
 
 ![](./res/screenshot/language.png)
 
-## 实验心得
-
-本次实验完成一个图书管理系统, 是我对MySQL各种操作, JDBC, SWT都有了更深的学习和理解. 
-
 
 
 
